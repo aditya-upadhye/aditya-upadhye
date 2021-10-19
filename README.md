@@ -6,6 +6,8 @@
 <br>
 
 <!-- - 🔭 I’m currently working on  -->
+<h2>
+
 - 🌱 I’m currently learning **Core Java**
 - 👯 I’m looking to collaborate on **Open Source**
 - 🤔 I’m looking for help with **Flutter**
@@ -13,6 +15,7 @@
 - 📫 How to reach me: **adityaupadhye47@gmail.com** 
 - 😄 Pronouns: **He/Him**
 <!-- - ⚡ Fun fact:  -->
+</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aditya-upadhye&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-upadhye" /> </p>
 
