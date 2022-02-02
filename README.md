@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Upadhye</h1>
-<img src = "https://images.unsplash.com/photo-1484807352052-23338990c6c6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHRlY2glMjBndXl8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80" width=100%>
+<img src = "https://images.unsplash.com/photo-1484807352052-23338990c6c6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHRlY2glMjBndXl8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80" width=800px height=500px>
 
 <h2>About Me : </h2>
 <h3>Pursuing Bachelor of Engineering (B.E.) in Computer Science from Sathyabama Institute of Science and Technology.</h3>
